@@ -1,4 +1,4 @@
 # demo-repos
 Demo repository
 <br>
-Author-Manasa
+Author-Manasa (Manasa Paladugu)
